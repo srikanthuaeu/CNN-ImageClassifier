@@ -1,6 +1,6 @@
 # CNN-ImageClassifier
 
-~~~python predict-multiclass.py
+#python predict-multiclass.py
 
 
 #  Train script makes model and weights file to `./newmodels/`.
