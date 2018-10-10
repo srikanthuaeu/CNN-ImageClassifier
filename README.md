@@ -1,13 +1,13 @@
 # CNN-ImageClassifier
 
-#python predict-multiclass.py
+## python predict-multiclass.py
 
 
-#  Train script makes model and weights file to `./newmodels/`.
+Train script makes model and weights file to `./newmodels/`.
 
 
 
-#   First, collect training and validation data and deploy it like this(for multiclass classification),
+   First, collect training and validation data and deploy it like this(for multiclass classification),
 ```
 ./classdata_NZ/
   train/
